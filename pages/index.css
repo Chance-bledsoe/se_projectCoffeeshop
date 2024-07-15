@@ -110,7 +110,7 @@
   color: #838383;
 }
 
-.recipies {
+.recipes {
   background-color: #0a2750;
   background-image: url("../images/background_recipes.svg");
   background-repeat: no-repeat;
@@ -119,7 +119,7 @@
   padding: 100px 80px 215px;
 }
 
-.recipes_title {
+.recipes__title {
   font-family: "Inter";
   font-style: normal;
   font-weight: 500;
@@ -130,7 +130,7 @@
   margin: 0;
 }
 
-.recipies__subtitle {
+.recipes__subtitle {
   font-family: "Noto Serif";
   font-style: normal;
   font-weight: normal;
